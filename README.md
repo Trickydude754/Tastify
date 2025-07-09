@@ -3,12 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Mohit Patel's Rangilo Blog</title>
+  <title>Mohit Patel's Blog</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header>
-    <h1>🌟 Mohit Patel का रंगीन ब्लॉग 🌟</h1>
+    <h1>🌟 Mohit Patel का ब्लॉग 🌟</h1>
     <p class="lang-hi">जहाँ मिलती है आपको रोचक खबरें, वीडियो और कहानियाँ!</p>
     <p class="lang-en" style="display:none;">Where you find exciting news, videos & stories!</p>
     <button id="dark-toggle">🌙 Dark Mode</button>
@@ -29,7 +29,7 @@
       <p class="lang-hi">भारत एक बार फिर तैयार है चाँद को छूने के लिए! चंद्रयान-4 मिशन की तैयारी ज़ोरों पर है और इस बार ISRO एक नया इतिहास रचने वाला है। जानिए मिशन की खासियतें, तकनीक और इसका भारत पर क्या असर होगा।</p>
       <p class="lang-en" style="display:none;">India is ready to touch the moon again! Chandrayaan-4 is set to make history. Learn about its mission, technology and its impact.</p>
       <video controls>
-        <source src="videos/chandrayaan.mp4" type="video/mp4">
+        <source href="https://youtu.be/vfq9dfaYDzc?si=kxbuu4d6y5TaQGWF" type="video/mp4">
         आपका ब्राउज़र वीडियो सपोर्ट नहीं करता।
       </video>
       <p>👉 <a href="https://isro.gov.in">और जानकारी ISRO की वेबसाइट पर</a></p>
